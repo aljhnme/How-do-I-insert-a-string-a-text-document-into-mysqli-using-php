@@ -1,1 +1,0 @@
-# How-do-I-insert-a-string-a-text-document-into-mysqli-using-php
